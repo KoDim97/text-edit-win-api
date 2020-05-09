@@ -1,0 +1,18 @@
+#include <windows.h>
+#include "menu.h"
+
+Reader MENU 
+{
+    POPUP "&File"
+    {
+        MENUITEM "&Open...\t", IDM_OPEN
+        MENUITEM SEPARATOR
+        MENUITEM "&Exit", IDM_EXIT
+    }
+    POPUP "&View"
+    {        
+        MENUITEM "&With formating\t", IDM_MODE_FORMATING
+        MENUITEM "&Withot formating \t", IDM_MODE_NO_FORMATING 
+    }
+}
+

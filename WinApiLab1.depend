@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1571492322 source:c:\studying\poly\interface\winapilab1\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	"menu.h"
+	"main.h"
+
+1571425062 c:\studying\poly\interface\winapilab1\menu.h
+
+1571488633 c:\studying\poly\interface\winapilab1\main.h
+
+1571425057 source:c:\studying\poly\interface\winapilab1\menu.rc
+	<windows.h>
+	"menu.h"
+
+1571425057 source:c:\studying\politech\interface\winapilab1\menu.rc
+	<windows.h>
+	"menu.h"
+
+1571425062 c:\studying\politech\interface\winapilab1\menu.h
+
+1572634472 source:c:\studying\politech\interface\winapilab1\models.c
+	"models.h"
+	<math.h>
+
+1572634344 c:\studying\politech\interface\winapilab1\models.h
+	<windows.h>
+	<stdio.h>
+
+1572634472 source:c:\studying\politech\interface\winapilab1\scroll.c
+	"scroll.h"
+
+1572634431 c:\studying\politech\interface\winapilab1\scroll.h
+	"models.h"
+
+1572634803 source:c:\studying\politech\interface\winapilab1\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"menu.h"
+	"scroll.h"
+	"models.h"
+	"textout.h"
+
+1572634470 c:\studying\politech\interface\winapilab1\textout.h
+	"models.h"
+
+1572633404 source:c:\studying\politech\interface\winapilab1\textout.c
+	"textout.h"
+	"models.h"
+

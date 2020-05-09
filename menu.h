@@ -1,0 +1,12 @@
+#ifndef MENU_H_INCLUDED
+#define MENU_H_INCLUDED
+
+#define IDM_OPEN 1
+#define IDM_EXIT 2
+
+#define IDM_MODE_FORMATING 10
+#define IDM_MODE_NO_FORMATING 11
+
+
+
+#endif // MENU_H_INCLUDED
